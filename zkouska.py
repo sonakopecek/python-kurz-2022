@@ -1,1 +1,2 @@
 print("ahoj")
+print("díky")
