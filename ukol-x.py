@@ -9,3 +9,4 @@ jmeno_a_prijmeni = input("Zadej své jméno a příjmení: ")
 print (jmeno_a_prijmeni.upper())
 # všechna malá
 print (jmeno_a_prijmeni.lower())
+# první velké ostatní malá
