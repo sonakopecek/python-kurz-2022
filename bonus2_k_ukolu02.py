@@ -2150,7 +2150,9 @@ staty_v_regionu = []
 for stat in staty:
     if stat["region"] == zadany_region:
         staty_v_regionu.append(stat["name"])
-        print(staty_v_regionu)
+             
+if staty_v_regionu:
+    print(staty_v_regionu)
 else:
     print("neznámý region")
 
